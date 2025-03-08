@@ -1,0 +1,1 @@
+deleteNode(head,6);
